@@ -1,0 +1,25 @@
+{
+    "description": "dsdss",
+    "Usecase1": {
+        "name": "login",
+        "status": "covered",
+        "coverage_scope": "",
+        "files": {  
+            "login.feature": {
+                "path": "C:\\_VOIS Work\\Data Analytics Role\\demo-ai-Project-templet\\src\\main\\repo_files\\login.feature",
+                "incomplete_parts": ["forget password", "confirm"]
+            },
+            "LoginSteps_test.java": {
+                "path": "C:\\_VOIS Work\\Data Analytics Role\\demo-ai-Project-templet\\src\\main\\repo_files\\LoginSteps_test.java"
+            },
+            "LoginPage_test.java": {
+                "path": "C:\\_VOIS Work\\Data Analytics Role\\demo-ai-Project-templet\\src\\main\\repo_files\\LoginPage_test.java"
+            }
+        }
+    },
+    "Usecase2": {
+        "name": "registration",
+        "status": "not covered",
+        "coverage_scope": "none"
+    }
+}

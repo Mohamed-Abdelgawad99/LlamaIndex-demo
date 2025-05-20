@@ -1,0 +1,28 @@
+# Google Cloud Libraries
+google-cloud-aiplatform
+google-cloud-storage
+google-auth
+google-api-python-client
+google-cloud-logging
+google-cloud-monitoring
+
+# Data Handling
+pandas
+numpy
+pyarrow
+fastparquet
+
+# Machine Learning
+scikit-learn
+# tensorflow
+# torch
+# transformers
+
+# gRPC for Advanced API Communication
+grpcio
+
+# BigQuery (Optional)
+google-cloud-bigquery
+
+# Dataproc (Optional, for Spark/Hadoop jobs)
+google-cloud-dataproc
