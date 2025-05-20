@@ -1,0 +1,24 @@
+LlamaIndex is a powerful tool for building applications with large language models and custom data. 
+This sample file contains example data entries for testing and demonstration purposes.
+
+Entry 1:
+Title: Introduction to LlamaIndex
+Content: LlamaIndex helps developers connect LLMs to their own data sources, enabling advanced search and retrieval capabilities.
+
+Entry 2:
+Title: Benefits of LlamaIndex
+Content: With LlamaIndex, you can easily index documents, perform semantic search, and build question-answering systems.
+
+Entry 3:
+Title: Example Use Case
+Content: A company uses LlamaIndex to allow employees to search internal documentation using natural language queries.
+
+Entry 4:
+Title: Getting Started
+Content: To get started, install LlamaIndex, prepare your data, and follow the documentation to create your first index.
+
+Entry 5:
+Title: Supported Data Formats
+Content: LlamaIndex supports various data formats, including text files, PDFs, and web pages.
+
+End of sample data.
